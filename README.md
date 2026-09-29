@@ -54,8 +54,6 @@ Below are the sample outputs of the program based on N=8 (8 rooms):
 `[(0, 1), (0, 3), (0, 4), (0, 5), (0, 7), (1, 2), (1, 4), (1, 5), (1, 6), (2, 5), (2, 6), (2, 7), (3, 4), (3, 5), (3, 6), (4, 7), (6, 7)]`
 
 **Output Validator:**
-```text
-Valid! 10 path(s):
-0 -> 3 -> 4 -> 1 -> 6 -> 7 -> 2 -> 5
-0 -> 4 -> 3 -> 6 -> 7 -> 2 -> 1 -> 5
-... (other routes)
+
+<img width="1095" height="300" alt="c76f22ac-2167-4848-810d-d577eec3b73b" src="https://github.com/user-attachments/assets/fb55eb76-aa0c-4a13-82b4-ac9b20d8bd1a" />
+
