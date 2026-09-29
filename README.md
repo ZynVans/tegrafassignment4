@@ -2,7 +2,7 @@
 
 **Graph Theory Group Homework**
 
-## Group Members
+## Group 3
 1. Padhang Abiyu Fikri - 5025251014
 2. Aditya Lingga Mardika - 5025251158
 3. Dzulfiqar Rafi'ussunnah - 5025251011
